@@ -1,0 +1,17 @@
+com\xmg\p2p\base\controller\IplogController.class
+com\xmg\p2p\base\controller\MoneyWithdrawController.class
+com\xmg\p2p\base\controller\RegisterController.class
+com\xmg\p2p\base\controller\VerifyCodeController.class
+com\xmg\p2p\base\controller\RechargeOfflineController.class
+com\xmg\p2p\base\controller\RealAuthController.class
+com\xmg\p2p\base\controller\IndexController.class
+com\xmg\p2p\base\util\LoginCheckInterceptor.class
+com\xmg\p2p\base\controller\PersonalController.class
+com\xmg\p2p\base\controller\UserFileController.class
+com\xmg\p2p\base\controller\BidController.class
+com\xmg\p2p\base\util\UploadUtil.class
+com\xmg\p2p\base\controller\BasicInfoController.class
+com\xmg\p2p\base\controller\BorrowController.class
+com\xmg\p2p\base\controller\UserBankinfoController.class
+com\xmg\p2p\base\util\RequireLogin.class
+com\xmg\p2p\base\controller\ReturnMoneyController.class
